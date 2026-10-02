@@ -1,0 +1,184 @@
+[Script Info]
+Title: Tlumaczenie PL
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,100,100,60,1
+Style: Signs,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.69,0:01:02.35,Default,,0,0,0,,Pojawiła się znikąd.
+Dialogue: 0,0:01:02.56,0:01:04.02,Default,,0,0,0,,Ta prześliczna nowa uczennica.
+Dialogue: 0,0:01:06.11,0:01:08.65,Default,,0,0,0,,Po co przyjechała do Japonii?!
+Dialogue: 0,0:01:08.99,0:01:10.70,Default,,0,0,0,,Pewnie to zwykła uczennica z wymiany.
+Dialogue: 0,0:01:11.03,0:01:15.20,Default,,0,0,0,,Nie, nie, tajemnicze nowe\Nzawsze kryją jakieś sekrety!
+Dialogue: 0,0:01:15.91,0:01:18.66,Default,,0,0,0,,Hej, mogę się dosiąść?
+Dialogue: 0,0:01:18.91,0:01:21.50,Default,,0,0,0,,J-Jasne, Kisskill-san.
+Dialogue: 0,0:01:21.71,0:01:23.00,Default,,0,0,0,,Mów mi Lily.
+Dialogue: 0,0:01:23.21,0:01:26.38,Default,,0,0,0,,Jestem pod wrażeniem, że udało ci się\Nukryć przede mną swoją obecność.
+Dialogue: 0,0:01:26.59,0:01:27.96,Default,,0,0,0,,Co to w ogóle znaczy?
+Dialogue: 0,0:01:28.51,0:01:30.47,Default,,0,0,0,,Poczęstujesz się czymś, Lily-san?
+Dialogue: 0,0:01:30.92,0:01:33.93,Default,,0,0,0,,O, nie, dzięki! Nic nie trzeba.
+Dialogue: 0,0:01:34.60,0:01:37.47,Default,,0,0,0,,Japońskie jedzenie\Njest takie pyszne,
+Dialogue: 0,0:01:37.81,0:01:38.14,Default,,0,0,0,,że aż się objadłam!
+Dialogue: 0,0:01:38.14,0:01:38.97,Default,,0,0,0,,że aż się objadłam!\NBek
+Dialogue: 0,0:01:38.97,0:01:39.89,Default,,0,0,0,,że aż się objadłam!
+Dialogue: 0,0:01:40.81,0:01:43.10,Default,,0,0,0,,Więc teraz nie jestem głodna.
+Dialogue: 0,0:01:43.31,0:01:44.98,Default,,0,0,0,,O, rozumiem.
+Dialogue: 0,0:01:45.23,0:01:48.48,Default,,0,0,0,,Następnym razem pokażę ci\Njakieś pyszne nowości!
+Dialogue: 0,0:01:48.69,0:01:50.82,Default,,0,0,0,,Tak, już nie mogę się doczekać!
+Dialogue: 0,0:01:51.03,0:01:52.49,Default,,0,0,0,,Hej! Lily-san
+Dialogue: 0,0:01:52.70,0:01:54.49,Default,,0,0,0,,Serio, wystarczy Lily!
+Dialogue: 0,0:01:54.70,0:01:56.78,Default,,0,0,0,,Mogę mówić ci Shizuka?
+Dialogue: 0,0:01:57.03,0:01:58.41,Default,,0,0,0,,J-Jasne.
+Dialogue: 0,0:02:00.70,0:02:03.21,Default,,0,0,0,,Za szybko się zbliża!
+Dialogue: 0,0:02:03.42,0:02:06.29,Default,,0,0,0,,Wiadomo, obcokrajowcy.\NZawsze tacy spoufali!
+Dialogue: 0,0:02:07.50,0:02:09.46,Default,,0,0,0,,W tym tempie...!
+Dialogue: 0,0:02:11.51,0:02:15.14,Default,,0,0,0,,Słuchaj, znasz Takaonnę?
+Dialogue: 0,0:02:11.63,0:02:15.14,Signs,,0,0,0,,{\fad(231,0)\an1\fnGeorgia\b0\bord2\blur7\c&HFEFEFE&\pos(1500,925)\t(0,231,\blur0)}"Takaonna"
+Dialogue: 0,0:02:15.51,0:02:16.80,Default,,0,0,0,,Takaonna.
+Dialogue: 0,0:02:17.05,0:02:22.48,Default,,0,0,0,,Yokai, która swoim niesamowicie długim ciałem\Nzagląda do budynków z zewnątrz.
+Dialogue: 0,0:02:22.68,0:02:25.77,Default,,0,0,0,,Mściwy duch zrodzony z głęboko zazdrosnej\Ni brzydkiej kobiety,
+Dialogue: 0,0:02:26.02,0:02:29.11,Default,,0,0,0,,Ponoć grozi piękniejszym kobietom\Ni je przeklina.
+Dialogue: 0,0:02:29.40,0:02:30.98,Default,,0,0,0,,Dobra, czas wracać do domu.
+Dialogue: 0,0:02:31.23,0:02:33.49,Default,,0,0,0,,Ej, zaczekaj!
+Dialogue: 0,0:02:33.57,0:02:35.99,Default,,0,0,0,,Znowu siedzisz w tym okultyzmie?
+Dialogue: 0,0:02:36.20,0:02:41.04,Default,,0,0,0,,Boję się, że jak nic nie zrobię,\Nto mi zabiorą Mimizukę!
+Dialogue: 0,0:02:41.20,0:02:44.46,Default,,0,0,0,,A jak już nie będzie się\Nze mną zadawać, to ja...
+Dialogue: 0,0:02:44.54,0:02:48.79,Default,,0,0,0,,Spokojnie, Inagawa-san!\NZawsze będziemy przyjaciółkami!
+Dialogue: 0,0:02:50.84,0:02:54.72,Default,,0,0,0,,To mogę ci opowiedzieć\No Takaonnie?
+Dialogue: 0,0:02:56.26,0:02:57.30,Default,,0,0,0,,...no dobra?
+Dialogue: 0,0:02:59.51,0:03:01.97,Default,,0,0,0,,Dziewczyna z klasy obok\Nto widziała,
+Dialogue: 0,0:03:02.18,0:03:05.06,Default,,0,0,0,,na korytarzu po zajęciach dodatkowych...
+Dialogue: 0,0:03:05.39,0:03:08.52,Default,,0,0,0,,Za oknem\Nstała kobieta.
+Dialogue: 0,0:03:09.19,0:03:10.69,Default,,0,0,0,,Strasznie się wystraszyła,
+Dialogue: 0,0:03:10.90,0:03:13.65,Default,,0,0,0,,więc poszła dalej i wyszła na dwór.
+Dialogue: 0,0:03:14.82,0:03:16.66,Default,,0,0,0,,I wtedy zrozumiała...
+Dialogue: 0,0:03:16.86,0:03:20.16,Default,,0,0,0,,Była na drugim piętrze,\Ngdy widziała tę kobietę za oknem,
+Dialogue: 0,0:03:20.41,0:03:25.33,Default,,0,0,0,,a tamta wpatrywała się\Nprosto przez to okno.
+Dialogue: 0,0:03:26.16,0:03:29.33,Default,,0,0,0,,Jakby czaiła się,\Nby dopaść ofiarę.
+Dialogue: 0,0:03:31.92,0:03:33.84,Default,,0,0,0,,Czyli ta Takaonna...
+Dialogue: 0,0:03:34.59,0:03:36.72,Default,,0,0,0,,Wyglądała jak taki duch?
+Dialogue: 0,0:03:42.01,0:03:46.39,Default,,0,0,0,,Nie, nie! To na pewno ktoś\Ntu po prostu przechodził!
+Dialogue: 0,0:03:46.89,0:03:48.48,Default,,0,0,0,,Ale na drugim piętrze?
+Dialogue: 0,0:03:48.57,0:03:50.40,Default,,0,0,0,,O! Może to robotnica z budowy!
+Dialogue: 0,0:03:50.78,0:03:52.70,Default,,0,0,0,,Stała pewnie na rusztowaniu!
+Dialogue: 0,0:03:52.91,0:03:55.58,Default,,0,0,0,,Daj spokój, Lily-san, nie rób\Nz ludzi duchów!
+Dialogue: 0,0:03:56.07,0:03:58.99,Default,,0,0,0,,Serio, mów mi po prostu Lily.
+Dialogue: 0,0:03:59.70,0:04:00.74,Default,,0,0,0,,Lily-san?!
+Dialogue: 0,0:04:00.95,0:04:01.74,Default,,0,0,0,,Uważaj!
+Dialogue: 0,0:04:02.03,0:04:03.49,Default,,0,0,0,,- Shizu!\N- Mimizuka-san!
+Dialogue: 0,0:04:16.88,0:04:18.18,Default,,0,0,0,,Co się dzieje?!
+Dialogue: 0,0:04:19.30,0:04:21.18,Default,,0,0,0,,A, już kumam.
+Dialogue: 0,0:04:21.51,0:04:23.10,Default,,0,0,0,,To Kamui-san.
+Dialogue: 0,0:04:35.61,0:04:37.57,Default,,0,0,0,,Shizu! Nic ci nie jest?
+Dialogue: 0,0:04:37.82,0:04:39.28,Default,,0,0,0,,Tak, nic mi nie jest.
+Dialogue: 0,0:04:39.53,0:04:41.66,Default,,0,0,0,,Tak się cieszę, że cała jesteś!
+Dialogue: 0,0:04:42.74,0:04:44.03,Default,,0,0,0,,On żyje...
+Dialogue: 0,0:04:45.41,0:04:46.54,Default,,0,0,0,,Ale jak?
+Dialogue: 0,0:04:50.50,0:04:53.92,Signs,,0,0,0,,{\fad(231,0)\an1\fnGeorgia\b0\bord2\blur7\c&HFEFEFE&\pos(1500,925)\t(0,231,\blur0)}"Yamamba"
+Dialogue: 0,0:04:50.92,0:04:53.92,Default,,0,0,0,,Wow, co za piękny widok!
+Dialogue: 0,0:04:54.21,0:04:56.42,Default,,0,0,0,,Ten zajazd też ma klimat!
+Dialogue: 0,0:04:56.71,0:04:58.17,Default,,0,0,0,,Dzień dobry.
+Dialogue: 0,0:04:58.42,0:05:01.30,Default,,0,0,0,,O, tak, witajcie, witajcie.
+Dialogue: 0,0:05:01.43,0:05:03.93,Default,,0,0,0,,Dobra, bierzemy się do roboty!
+Dialogue: 0,0:05:07.77,0:05:11.39,Default,,0,0,0,,Zwariowałyście? Zabieracie się do nauki zaraz po przybyciu do gospody?!
+Dialogue: 0,0:05:11.52,0:05:14.19,Default,,0,0,0,,To ty nas straszyłaś\Ntym nadchodzącym sprawdzianem.
+Dialogue: 0,0:05:14.31,0:05:16.57,Default,,0,0,0,,Dlatego przyjechałyśmy\Nna wielodniowy obóz naukowy.
+Dialogue: 0,0:05:18.44,0:05:19.90,Default,,0,0,0,,Shi~zu~ka~
+Dialogue: 0,0:05:21.24,0:05:24.20,Default,,0,0,0,,Dzięki, że mnie zabrałyście.
+Dialogue: 0,0:05:24.45,0:05:26.24,Default,,0,0,0,,Na pewno nie przeszkadzam?
+Dialogue: 0,0:05:26.54,0:05:28.08,Default,,0,0,0,,Oczywiście, że nie!
+Dialogue: 0,0:05:28.33,0:05:31.83,Default,,0,0,0,,Jasne! Razem\Nuczy się weselej, wiesz?
+Dialogue: 0,0:05:38.71,0:05:41.47,Default,,0,0,0,,Dostaniemy aż tak\Nwystawną ucztę?!
+Dialogue: 0,0:05:41.84,0:05:46.14,Default,,0,0,0,,Dawno nie miałyśmy młodych gości,\Nwięc się tak ucieszyłam.
+Dialogue: 0,0:05:46.35,0:05:47.89,Default,,0,0,0,,Jedzcie, jedzcie śmiało!
+Dialogue: 0,0:05:48.31,0:05:50.23,Default,,0,0,0,,Dziękujemy za posiłek!
+Dialogue: 0,0:05:54.06,0:05:55.98,Default,,0,0,0,,Ale pyszne!
+Dialogue: 0,0:06:00.24,0:06:02.74,Default,,0,0,0,,Nie jesteś głodna, Lily?
+Dialogue: 0,0:06:02.95,0:06:04.91,Default,,0,0,0,,Och, jestem strasznie wybredna...
+Dialogue: 0,0:06:05.49,0:06:07.99,Default,,0,0,0,,To co właściwie jadasz, Lily?
+Dialogue: 0,0:06:08.45,0:06:11.00,Default,,0,0,0,,Hmm... zupy i takie tam?
+Dialogue: 0,0:06:11.33,0:06:13.50,Default,,0,0,0,,No, zupy i płatki chyba?
+Dialogue: 0,0:06:31.81,0:06:33.23,Default,,0,0,0,,To wygląda dobrze...
+Dialogue: 0,0:06:39.40,0:06:42.40,Default,,0,0,0,,Kamui-san?! Co TY tu robisz?!
+Dialogue: 0,0:06:42.61,0:06:43.99,Default,,0,0,0,,O, cześć, mała.
+Dialogue: 0,0:06:45.20,0:06:47.57,Default,,0,0,0,,Co za przypadek, spotkać cię\Nw takim miejscu.
+Dialogue: 0,0:06:47.78,0:06:50.08,Default,,0,0,0,,Oichi? Co ty tu robisz?
+Dialogue: 0,0:06:50.29,0:06:52.87,Default,,0,0,0,,Towarzyszę mistrzowi\Nw treningu.
+Dialogue: 0,0:06:53.08,0:06:54.54,Default,,0,0,0,,Treningu?
+Dialogue: 0,0:06:56.88,0:06:58.29,Default,,0,0,0,,On rozłupuje wodospad?!
+Dialogue: 0,0:06:58.79,0:06:59.92,Default,,0,0,0,,Robi wrażenie, nie?
+Dialogue: 0,0:07:00.30,0:07:02.30,Default,,0,0,0,,To raczej gruba przesada...
+Dialogue: 0,0:07:05.84,0:07:07.14,Default,,0,0,0,,Pamiętasz?
+Dialogue: 0,0:07:07.93,0:07:10.93,Default,,0,0,0,,Tamtego dnia, kiedy coś mnie pokonało...
+Dialogue: 0,0:07:11.43,0:07:15.69,Default,,0,0,0,,Czy nie miałeś nieprzyjemnego starcia z driadą, która przybrała ludzką postać?
+Dialogue: 0,0:07:15.89,0:07:16.90,Default,,0,0,0,,Być może.
+Dialogue: 0,0:07:17.19,0:07:19.52,Default,,0,0,0,,Słabo pamiętam tamten dzień.
+Dialogue: 0,0:07:20.19,0:07:24.11,Default,,0,0,0,,Ciekawi mnie też, gdzie jest\Njej córka, z którą spędziłaś czas.
+Dialogue: 0,0:07:25.99,0:07:26.86,Default,,0,0,0,,W każdym razie,
+Dialogue: 0,0:07:27.11,0:07:29.57,Default,,0,0,0,,potrzebuję więcej mocy.
+Dialogue: 0,0:07:29.91,0:07:31.08,Default,,0,0,0,,A żeby ją zdobyć...
+Dialogue: 0,0:07:31.79,0:07:34.08,Default,,0,0,0,,T-ten głaz... to niemożliwe...!
+Dialogue: 0,0:07:39.08,0:07:40.59,Default,,0,0,0,,Hej! Kamui-san!
+Dialogue: 0,0:07:42.42,0:07:45.05,Default,,0,0,0,,Co to za hałas?!
+Dialogue: 0,0:07:48.09,0:07:49.59,Default,,0,0,0,,Przez następne kilka dni
+Dialogue: 0,0:07:50.43,0:07:52.35,Default,,0,0,0,,uczyłam się z dziewczynami w zajeździe,
+Dialogue: 0,0:07:53.14,0:07:55.10,Default,,0,0,0,,jadłam mnóstwo pyszności
+Dialogue: 0,0:07:55.64,0:07:58.73,Default,,0,0,0,,i z daleka podglądałam\Ntrening Kamui-san.
+Dialogue: 0,0:07:59.60,0:08:01.82,Default,,0,0,0,,To było kilka fajnych dni!
+Dialogue: 0,0:08:02.86,0:08:05.36,Signs,,0,0,0,,{\c&H21221B&\blur4\fnArial\b1\fs50\bord10\pos(850,420)\3c&H4C5145&}DAMSKA \NTOALETA
+Dialogue: 0,0:08:06.95,0:08:09.28,Default,,0,0,0,,Dziś ostatni dzień obozu naukowego, co?
+Dialogue: 0,0:08:13.62,0:08:15.91,Default,,0,0,0,,Pali się światło. To gospodyni zajazdu?
+Dialogue: 0,0:08:22.71,0:08:23.75,Default,,0,0,0,,To...!
+Dialogue: 0,0:08:24.50,0:08:27.59,Default,,0,0,0,,Ach... tak długo czekałam.
+Dialogue: 0,0:08:30.22,0:08:32.89,Default,,0,0,0,,Nareszcie skosztuję świeżego mięsa...
+Dialogue: 0,0:08:35.60,0:08:37.68,Default,,0,0,0,,Wiem, że tam jesteś, dziewczynko!
+Dialogue: 0,0:08:38.31,0:08:41.19,Default,,0,0,0,,Widziałam cię!
+Dialogue: 0,0:08:43.48,0:08:45.28,Default,,0,0,0,,Nie miałam innego wyjścia.
+Dialogue: 0,0:08:45.53,0:08:47.24,Default,,0,0,0,,Gdybym sama uciekła...
+Dialogue: 0,0:08:49.11,0:08:50.57,Default,,0,0,0,,Stój!
+Dialogue: 0,0:08:50.99,0:08:52.82,Default,,0,0,0,,Wiedziałam, że pobiegnie za mną!
+Dialogue: 0,0:08:57.50,0:08:58.87,Default,,0,0,0,,Bo ja...
+Dialogue: 0,0:08:59.41,0:09:02.29,Default,,0,0,0,,...jestem wyznaczonym wabikiem Kamui-san!
+Dialogue: 0,0:09:03.29,0:09:04.79,Default,,0,0,0,,Yamamba, tak?
+Dialogue: 0,0:09:05.21,0:09:06.09,Default,,0,0,0,,Yamamba.
+Dialogue: 0,0:09:06.25,0:09:08.01,Default,,0,0,0,,Istota przybierająca postać\Nstarej kobiety
+Dialogue: 0,0:09:08.05,0:09:09.42,Default,,0,0,0,,mieszkającej wysoko w górach.
+Dialogue: 0,0:09:09.59,0:09:12.34,Default,,0,0,0,,Ponoć miła dla obcych\Ni częstuje ich jedzeniem,
+Dialogue: 0,0:09:12.59,0:09:16.31,Default,,0,0,0,,a w środku nocy, gdy zasną,\Nsama ich pożera.
+Dialogue: 0,0:09:17.39,0:09:19.02,Default,,0,0,0,,Ale dziś będzie inaczej.
+Dialogue: 0,0:09:20.02,0:09:21.77,Default,,0,0,0,,Tym razem to ja pożrę Yamambę.
+Dialogue: 0,0:09:22.35,0:09:23.23,Default,,0,0,0,,Jesteś obleśny!
+Dialogue: 0,0:09:23.23,0:09:25.73,Signs,,0,0,0,,{\fad(0,450)\c&H0E0506&\bord9\blur1\3c&HF5F3F3&\fnArial\b1\pos(978,786)}Przedtem (zwykle)
+Dialogue: 0,0:09:23.48,0:09:27.73,Default,,0,0,0,,{\an8}Zaraz, jak tak się zmieniłeś w tak krótkim czasie?!
+Dialogue: 0,0:09:25.27,0:09:27.73,Signs,,0,0,0,,{\fad(450,0)\c&H0E0506&\bord9\blur1\3c&HF5F3F3&\fnArial\b1\pos(978,786)\t(0,450,\blur0)}Po (3-4 dniach treningu)
+Dialogue: 0,0:09:30.40,0:09:33.74,Default,,0,0,0,,Wiesz, jak się przechwalać, młody...
+Dialogue: 0,0:09:34.95,0:09:39.29,Default,,0,0,0,,To może poczęstuję cię\Nczymś nowocześniejszym?
+Dialogue: 0,0:09:39.54,0:09:41.00,Default,,0,0,0,,To ta Yamamba?!
+Dialogue: 0,0:09:41.25,0:09:43.08,Default,,0,0,0,,C-co masz na myśli, Oichi?
+Dialogue: 0,0:09:43.29,0:09:47.17,Default,,0,0,0,,To kwestia pokolenia!\NTaka jak ty tego nie skuma.
+Dialogue: 0,0:09:47.50,0:09:50.72,Default,,0,0,0,,Najpierw cię pożrę! Giń!
+Dialogue: 0,0:09:55.14,0:09:56.30,Default,,0,0,0,,Spudłowałam, co?
+Dialogue: 0,0:09:56.93,0:09:58.93,Default,,0,0,0,,Nie. To już koniec.
+Dialogue: 0,0:10:06.23,0:10:09.15,Default,,0,0,0,,Mistrz jest teraz na\Ninnym poziomie niż ty.
+Dialogue: 0,0:10:10.94,0:10:12.45,Default,,0,0,0,,Kiedy on...
+Dialogue: 0,0:10:13.07,0:10:14.61,Default,,0,0,0,,Doprowadź mnie do orgazmu?
+Dialogue: 0,0:10:23.08,0:10:25.29,Default,,0,0,0,,Wygląda jeszcze smakowiciej niż wcześniej!
+Dialogue: 0,0:10:26.58,0:10:29.21,Default,,0,0,0,,Teraz czekają mnie\Ndwa posiłki.
+Dialogue: 0,0:10:37.10,0:10:39.60,Default,,0,0,0,,Wow, popatrz na ten wodospad!
+Dialogue: 0,0:10:39.81,0:10:41.89,Default,,0,0,0,,Tego szukałaś, Shizu?
+Dialogue: 0,0:10:42.10,0:10:42.68,Default,,0,0,0,,Tak.
+Dialogue: 0,0:10:43.39,0:10:45.69,Default,,0,0,0,,O, to dla ciebie, Lily.
+Dialogue: 0,0:10:47.15,0:10:49.82,Default,,0,0,0,,Pomyślałam, że przyda ci się fajna\Nwoda na zupę miso!
+Dialogue: 0,0:10:50.28,0:10:51.82,Default,,0,0,0,,D-dla mnie?!
+Dialogue: 0,0:10:53.65,0:10:56.70,Default,,0,0,0,,Może dziś nie będę się w niej kąpać.
+Dialogue: 0,0:10:57.03,0:10:58.41,Default,,0,0,0,,Dobry pomysł.
+Dialogue: 0,0:11:56.22,0:11:59.01,Signs,,0,0,0,,{\fs45\an1\b1\fnNoto Sans\pos(126,964)}lolikuza.ovh
